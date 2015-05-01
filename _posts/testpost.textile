@@ -1,0 +1,10 @@
+---
+layout: post
+title: This is a test
+---
+
+h1. {{ page.title }}
+
+p(meta). 05.01.2015 - Urbana, IL
+
+Hello world! :)
