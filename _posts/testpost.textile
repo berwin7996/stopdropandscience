@@ -5,6 +5,6 @@ title: This is a test
 
 h1. {{ page.title }}
 
-p(meta). 05.01.2015 - Urbana, IL
+p(meta). 1 May 2015 - Urbana
 
 Hello world! :)
