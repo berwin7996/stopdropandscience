@@ -1,3 +1,3 @@
 markdown: rdiscount
 pygments: true
-permalink: /stopdropandscience/:title
+permalink: /stopdropandscience/:categories/:year/:month/:day/:title.html
