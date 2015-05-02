@@ -1,4 +1,4 @@
 markdown: rdiscount
 pygments: true
 permalink: /:categories/:year/:month/:day/:title.html
-baseurl: berwin.io/stopdropandscience
+baseurl: "berwin.io/stopdropandscience"
