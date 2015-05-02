@@ -1,3 +1,4 @@
 markdown: rdiscount
 pygments: true
-permalink: /stopdropandscience/:categories/:year/:month/:day/:title.html
+permalink: /:categories/:year/:month/:day/:title.html
+baseurl: berwin.io/stopdropandscience
