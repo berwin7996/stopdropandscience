@@ -1,2 +1,2 @@
 # stopdropandscience
-Blog area of who know's what
+Blog area of who knows what
